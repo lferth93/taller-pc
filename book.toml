@@ -1,0 +1,6 @@
+[book]
+authors = ["Luis Fernando","Eduardo Morgado"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Curso de Programación competitiva"
