@@ -1,8 +1,6 @@
 # Algoritmos
 
-## Algoritmos
-
-### ¿Qué es un algoritmo?
+## ¿Qué es un algoritmo?
 
 De manera sencilla e informal, digamos que un algoritmo es una secuencia finita de instrucciones o pasos definidos de manera clara y que se siguen para realizar una tarea o resolver un problema dado. 
 
@@ -18,7 +16,7 @@ Además de todo esto, es deseable que un algoritmo sea **eficiente.**
 
 Diremos que entre menos recursos utilice el algoritmo (tiempo de procesamiento y espacio de memoria), más eficiente será.
 
-### Complejidad algorítmica
+## Complejidad algorítmica
 
 La complejidad algorítmica representa la cantidad de recursos (usualmente temporales pero también espaciales, es decir espacio en memoria) que un algoritmo necesita para lograr resolver un problema. ¡Nos cuenta acerca de su eficiencia!
 
@@ -48,6 +46,6 @@ Los comportamientos de algunas de estas complejidades se describen gráficamente
 
 ![image003.jpg](images/image003.jpg)
 
-### Conclusión:
+## Conclusión:
 
 La complejidad algorítmica es importante.
